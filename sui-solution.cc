@@ -1,6 +1,7 @@
 #include "search-strategies.h"
 
 std::vector<SearchAction> BreadthFirstSearch::solve(const SearchState &init_state) {
+    std::cout << "TEST" << std::endl;
 	return {};
 }
 
